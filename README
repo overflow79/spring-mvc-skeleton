@@ -1,0 +1,7 @@
+- java spring mvc skeleton project
+- author
+    overflow79@gmail.com
+- run app
+    $ mvn clean install tomcat7:run
+- test
+    http://localhost:8080/spring-mvc-skeleton/hello
